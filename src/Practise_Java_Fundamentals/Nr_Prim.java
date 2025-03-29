@@ -36,7 +36,7 @@ public class Nr_Prim {
                     eshtePrim = false;
                     break;
                 }
-                pjestuesi += 2; // Kalojmë vetëm tek numrat tek
+                pjestuesi += 2; // Kalojmë vetëm  numrat tek
             }
         }
 
