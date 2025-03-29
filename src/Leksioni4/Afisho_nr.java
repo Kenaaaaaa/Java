@@ -18,7 +18,7 @@ public class Afisho_nr {
         }
 
         //afisho numrat deri tek nr/2
-        ;
+
         for(i=1;i<=(nr/2);i++){
             System.out.println(i);
         }

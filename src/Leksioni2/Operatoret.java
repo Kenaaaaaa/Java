@@ -18,5 +18,13 @@ public class Operatoret {
         x-=3;
         result=(x<=2);
         System.out.println(result);
+
+
+        //kontrollo nese x eshte i barabarte me 0
+        result=(x==0);
+        System.out.println(result);
+
+        //kontrollo nqs resultat ruan vleren tru si vleredhenie te fundit
+        System.out.println(result==true);
     }
 }
