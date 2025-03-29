@@ -9,10 +9,10 @@ public class Do_while_Shuma_Nr {
         int shuma=0;
        do {
            int nr= input.nextInt();
-
            if(nr==-1) {
-                break;
-            }
+               break;
+           }
+
                shuma+=nr;
        }
        while(true);
