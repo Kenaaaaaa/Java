@@ -1,7 +1,12 @@
 package Practise_Java_Fundamentals;
 
 import java.util.Scanner;
-
+/*Interpretimi i semaforit sipas shkronjës me switch
+- Shpjegimi: Programi lexon një shkronjë (R, Y, G) dhe përdor switch për të treguar se çfarë
+ngjyre është semafori.
+- Shembull input: "R"
+- Shembull output: "Semafori është i kuq."
+*/
 public class Semafori_Switch {
     public static void main(String[] args) {
 
