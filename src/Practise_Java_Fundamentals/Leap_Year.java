@@ -10,7 +10,7 @@ public class Leap_Year {
 
         int viti=input.nextInt();
 
-        if(viti%4==0 || viti!=100 && viti%400==0){
+        if(viti%4==0 && viti!=100 || viti%400==0){
             System.out.println("VIti "+viti+" eshte i brishte");
         }
         else{
