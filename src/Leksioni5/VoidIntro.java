@@ -29,6 +29,10 @@ public class VoidIntro {
         int nr2=input.nextInt();
 
         AfishoMax(nr1,nr2);
-        AfishoMax(3,5);
+
+        System.out.println();
+        AfishoMax(nr1=3,nr2=5);
+        AfishoMax(nr2=5,nr1=3);
+
     }
 }
