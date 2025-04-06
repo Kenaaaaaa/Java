@@ -29,6 +29,12 @@ public class testKursi {
         System.out.println("Fut numrin e muajve per kursin e dyte ");
         kursi2.nrMuaj=input.nextInt();
 
+        //Afisho kursi1
+        kursi1.Afisho();
+
+        //Afisho kursi2
+        kursi2.Afisho();
+
 
         //Kontrollo nese kursi i pare eshte me shume se 1 vit
         if(kursi1.checkMoreThan1Year()==true){
