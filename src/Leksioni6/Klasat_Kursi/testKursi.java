@@ -36,6 +36,24 @@ public class testKursi {
         kursi2.Afisho();
 
 
+        //Kursi3
+        System.out.println("Vendos titullin e kursit");
+        String titulli=input.next();
+        System.out.println("Vendos id e trajnerit");
+        String TrainerID=input.next();
+        System.out.println("Vendos kohezgjatjen ne muaj");
+        int nrMuaj= input.nextInt();
+        System.out.println("Vendos numrin e oreve");
+         float nrOresh=input.nextFloat();
+
+
+        Kursi kursi3=new Kursi( titulli, nrMuaj, nrOresh, TrainerID);
+
+        kursi3.Afisho();
+
+
+
+
         //Kontrollo nese kursi i pare eshte me shume se 1 vit
         if(kursi1.checkMoreThan1Year()==true){
             System.out.println("Kursi i"+kursi1.titulli+" eshte me i gjate ese 1 vit");
@@ -56,3 +74,4 @@ public class testKursi {
 
     }
 }
+
