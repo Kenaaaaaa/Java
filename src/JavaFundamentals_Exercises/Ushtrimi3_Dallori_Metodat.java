@@ -1,8 +1,8 @@
-package Ushtrimi3_Dallori;
+package JavaFundamentals_Exercises;
 
 import java.util.Scanner;
 
-public class Dallori_Metodat {
+public class Ushtrimi3_Dallori_Metodat {
 
     static void Dallori(int a, int b, int c){
         int dalloriResult=(b*b)-4*a*c;
