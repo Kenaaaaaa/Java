@@ -5,7 +5,7 @@ package Practise_Java_Fundamentals3.Array1D;
 
 import java.util.Scanner;
 
-public class Mesatare_Vizitoreve {
+public class Mesatare_Vizitoreve_Mujore {
 
     //Metoda Mesatare Vizitoreve
     static double Mesatare(int[]vizitore){
