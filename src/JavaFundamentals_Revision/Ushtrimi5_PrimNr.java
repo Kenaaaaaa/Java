@@ -1,4 +1,4 @@
-package JavaFundamentals_Exercises;
+package JavaFundamentals_Revision;
 /*
 * Shkruaj nje aplikacion qe merr nje numer pozitiv nga perdoruesi,tipin int,
 *  printon te gjithe numrat prim me te medhenj se 1 dhe me te vogel se numri i dhene  */

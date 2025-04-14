@@ -1,4 +1,4 @@
-package JavaFundamentals_Exercises;
+package JavaFundamentals_Revision;
 /**/
 import java.util.Scanner;
 public class Ushtrimi1_Perimetri_Rrethit {

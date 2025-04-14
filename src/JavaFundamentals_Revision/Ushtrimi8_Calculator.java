@@ -1,4 +1,4 @@
-package JavaFundamentals_Exercises;
+package JavaFundamentals_Revision;
 /*Shkruaj nje aplikacion qe ben calculator
 * 1. duhet te lexoje nje numer float nga perdoruesi
 * 2.duhet te lexoje nje simbol + - * /

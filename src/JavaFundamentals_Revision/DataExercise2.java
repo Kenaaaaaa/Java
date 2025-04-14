@@ -1,4 +1,4 @@
-package JavaFundamentals_Exercises;
+package JavaFundamentals_Revision;
 
     import java.time.LocalDate;
 import java.time.Period;

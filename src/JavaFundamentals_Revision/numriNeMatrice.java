@@ -1,4 +1,4 @@
-package JavaFundamentals_Exercises;
+package JavaFundamentals_Revision;
 import java.util.Scanner;
 
 /*metode me parameter nje matrice dhe nje numer te plote

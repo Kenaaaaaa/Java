@@ -1,4 +1,4 @@
-package JavaFundamentals_Exercises;
+package JavaFundamentals_Revision;
 /*shiko nese numrat e matrices mbi dhe poshte diagonales kane te njejtjen vlere
 * dhe duhet qe te kthejme true */
 import java.util.Scanner;
