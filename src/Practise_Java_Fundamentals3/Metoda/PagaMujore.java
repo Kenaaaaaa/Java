@@ -15,7 +15,7 @@ public class PagaMujore {
             pgMujore=pagaDitore*nrDiteve;
         }
         else{
-            pgMujore=pagaDitore*nrDiteve+(pagaDitore*nrDiteve*0.1);
+            pgMujore=pagaDitore*nrDiteve+(pagaDitore*(nrDiteve-22)*0.1);
         }
         return pgMujore;
     }
