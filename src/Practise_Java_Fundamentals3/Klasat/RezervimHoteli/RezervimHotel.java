@@ -31,6 +31,7 @@ public class RezervimHotel {
     //Metodat
 
     public double totalCmimi(int netet, double cmimi){
+
         return netet*cmimi;
     }
 
