@@ -1,5 +1,8 @@
 package Practise_Java_Fundamentals6;
+/*Shkruaj një metodë që përdor rekursion për të kthyer një string përmbys.
 
+
+ */
 public class StringRekursiv {
 
     // Metoda që kthen përmbys një string duke përdorur rekursion
