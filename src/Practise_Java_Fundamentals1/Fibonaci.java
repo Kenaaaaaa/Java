@@ -12,7 +12,7 @@ public class Fibonaci {
         int nr= input.nextInt();
         int a=0;
         int b=1;
-        int sh;
+        int sh=0;
         int count=3;
         if(nr>=1){
             System.out.println(a);
